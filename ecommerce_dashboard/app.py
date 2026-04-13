@@ -19,7 +19,7 @@ st.set_page_config(
 # ============================================================
 # LOAD DATA
 # ============================================================
-base = "."
+base = os.path.dirname(os.path.abspath(__file__))
 
 @st.cache_data
 def load_data():
