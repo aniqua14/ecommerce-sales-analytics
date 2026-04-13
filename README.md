@@ -53,8 +53,10 @@ Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Streamlit
 | Joblib | 1.3+ | Model serialization |
 
 ## 📂 Project Structure
+
 \`\`\`
 ecommerce_dashboard/
+
 ├── app.py                  # Streamlit dashboard
 ├── requirements.txt        # Dependencies
 ├── ecommerce_EDA.ipynb     # Full analysis notebook
