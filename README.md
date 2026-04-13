@@ -54,9 +54,7 @@ Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Streamlit
 
 ## 📂 Project Structure
 
-\`\`\`
 ecommerce_dashboard/
-
 ├── app.py                  # Streamlit dashboard
 ├── requirements.txt        # Dependencies
 ├── ecommerce_EDA.ipynb     # Full analysis notebook
@@ -66,7 +64,7 @@ ecommerce_dashboard/
 ├── sales_data.csv          # Cleaned sales data
 ├── *.png                   # Saved visualizations
 └── *.joblib                # Trained ML models
-\`\`\`
+
 
 ## ⚠️ Honest Model Note
 ROC-AUC = 1.0 reflects target leakage and extreme class imbalance
