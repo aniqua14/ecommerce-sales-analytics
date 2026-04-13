@@ -54,16 +54,15 @@ Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Streamlit
 
 ## 📂 Project Structure
 
-ecommerce_dashboard/
-app.py                  - Streamlit dashboard
-requirements.txt        - Dependencies
-ecommerce_EDA.ipynb     - Full analysis notebook
-kpi_summary.csv         - Precomputed KPIs
-rfm_summary.csv         - RFM analysis results
-rfm_with_churn.csv      - Customer segments + churn labels
-sales_data.csv          - Cleaned sales data
-*.png                   - Saved visualizations
-*.joblib                - Trained ML models
+- `app.py` — Streamlit dashboard
+- `requirements.txt` — Dependencies
+- `ecommerce_EDA.ipynb` — Full analysis notebook
+- `kpi_summary.csv` — Precomputed KPIs
+- `rfm_summary.csv` — RFM analysis results
+- `rfm_with_churn.csv` — Customer segments + churn labels
+- `sales_data.csv` — Cleaned sales data
+- `*.png` — Saved visualizations
+- `*.joblib` — Trained ML models
 
 
 ## ⚠️ Honest Model Note
